@@ -1,7 +1,6 @@
 title:string=noddy
 author:string=nbt2ascii
 mats:table={
-  a:string=UNKNOWN_NAME
   o:string=minecraft:obsidian
 }
 startPoint:list=[
@@ -20,7 +19,6 @@ levels:list=[
     blocks:string=@github
     matCounts:table={
       minecraft:obsidian:number=773
-      UNKNOWN_NAME:number=1
     }
   }
   table={
