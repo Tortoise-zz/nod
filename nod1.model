@@ -1,4 +1,5 @@
 title:string=nod1
+blocksBaseUrl:string=Tortoise-zz/nod/master/nod1
 author:string=nbt2ascii
 mats:table={
   o:string=minecraft:obsidian
